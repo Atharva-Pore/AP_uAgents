@@ -3,7 +3,7 @@ from keybert import KeyBERT
 import openai
 
 # OpenAI API Key (Ensure to use your own secure key)
-OPEN_AI_KEY = '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'
+OPEN_AI_KEY = 'your_openai_key'
 
 # Define the input model
 class KeywordExtractionRequest(Model):

@@ -2,7 +2,7 @@ import requests
 from uagents import Agent, Context, Model
 
 # ASI1 API Configuration
-ASI1_API_KEY = "sk_59225cd35f384d529c2cbcb19e4a29dcae64ca00e1c84220a358712ebd0efd9c"  # Replace with your API key
+ASI1_API_KEY = "your_asi1_key"  # Replace with your API key
 ASI1_URL = "https://api.asi1.ai/v1/chat/completions"
 
 # Request model
