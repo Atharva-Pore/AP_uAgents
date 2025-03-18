@@ -144,7 +144,3 @@ if __name__ == "__main__":
 ## Deployment Instructions:
 - Run the client code after ensuring that all required packages are installed.
 - The client will send a translation request to the server, and the server will return the translated text.
-
----
-
-By following these instructions, users can easily send text for translation and receive the results using the Language Translator Agent.
